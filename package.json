@@ -1,0 +1,21 @@
+{
+  "name": "hands-on-expressjs",
+  "version": "1.0.0",
+  "description": "Hands-On ExpressJS Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "ngnam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "moment": "^2.27.0",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
